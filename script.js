@@ -1,9 +1,10 @@
+// demo function
 function logArgs(args) {
   var a = 1
   console.log(args)
 }
 
-var contents = logArgs.toString()
+var functionString = "//
 
 var consoleLogExample = $("#console-log-example")
 var formattedExample = $("<pre>")
