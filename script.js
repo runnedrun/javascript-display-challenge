@@ -4,9 +4,9 @@ function logArgs(args) {
   console.log(args)
 }
 
-var functionString = "//
+var functionString = "how do I get the function as a string?"
 
-var consoleLogExample = $("#console-log-example")
+var consoleLogExample = $("how do I get the element where I want to put the example?")
 var formattedExample = $("<pre>")
 
 formattedExample.text(contents)
